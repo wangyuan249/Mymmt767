@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wzy@10.16.98.191">
+    <serverData>
+      <paths name="Copy of project-level server 'gfc@10.16.98.192'">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="HengYuanYun">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/MMT_2N_A+B+ring_correct" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gfc@10.16.98.192">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wzy">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ext/wzy_uda_reID/lzq/MMT_2N_A+B+ring_correct" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wzy@10.16.98.191">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ext/wzy_uda_reID/Bestmodel" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
